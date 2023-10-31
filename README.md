@@ -1,2 +1,3 @@
-# deep-learning
-A repository for the course Deep Learning.
+# Deep Learning
+
+A repository for the lab of the course Deep Learning.
